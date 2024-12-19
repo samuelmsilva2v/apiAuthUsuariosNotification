@@ -18,6 +18,6 @@ public class LogMensagem {
 	
 	@Temporal(TemporalType.TIMESTAMP)
 	private Date dataHora;
-	private String pessoa;
+	private String usuario;
 	private String descricao;
 }
